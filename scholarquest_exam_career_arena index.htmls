@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ScholarQuest | Exam Hub, PYQ Practice Arena & Academic Intelligence</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ScholarQuest | UGC NET & Competitive Exam Practice Arena</title>
+  <meta name="description" content="Free web-based exam prep platform with source-cited PYQs, mock tests, and AI progress tracking for UGC NET, CSIR NET, GATE, and more.">
+</head>
   <style>
     :root {
       --bg-page: #f4f6fb;
